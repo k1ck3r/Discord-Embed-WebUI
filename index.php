@@ -50,7 +50,7 @@
                 $date = date('m/d/y');
 
                 // Replace the URL with your own webhook url
-                $url = "https://discordapp.com/api/webhooks/601139618489827328/yN8-hA_36pDRFolWOza4QTQl0V0f8G6NStSJf3f66AupebSM4tdNx2IHhHLC26kJChN2";
+                $url = "https://discordapp.com/api/webhooks";
 
                 $hookObject = json_encode([
                     /*

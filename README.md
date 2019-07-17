@@ -20,5 +20,9 @@ https://github.com/Jonah412/Discord-Embed-WebUI.git
 
 Editing the index.php file is easy. Simply open the file and boom. There are comments on everything to show you what to do.
 
+## Support
+
+If you need help you can join my server here: https://discord.gg/J8S5e8a
+
 ## Version
 v1.0

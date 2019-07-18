@@ -18,13 +18,19 @@
 <h1 align="center">How To Insatll</h1>
 
 Upload files to your server, or run the following command:
-```objective-c
+```bash
 https://github.com/Jonah412/Discord-Embed-WebUI.git
 ```
 
 <h1 align="center">How To Edit</h1>
 
 Editing the index.php file is easy. Simply open the file and boom. There are comments on everything to show you what to do.
+
+You can also use the following site to help you create your embed message.
+
+```bash
+https://leovoel.github.io/embed-visualizer/
+```
 
 <h1 align="center">Embed Formatting</h1>
 

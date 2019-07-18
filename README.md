@@ -9,6 +9,12 @@
 
 <p align="center">This is a sleek and awesome web page that lets you send a embed message to a channel using a webhook. This is easy to use and easy to edit. The embed is being send using PHP.</p>
 
+<h1 align="center">Web Page</h1>
+
+<p align="center">
+  <img src="https://i.imgur.com/lVwMXyz.png" alt="Voltage Music" width="992" height="550">
+ </p>
+ 
 <h1 align="center">How To Insatll</h1>
 
 Upload files to your server, or run the following command:
@@ -27,6 +33,8 @@ Editing the index.php file is easy. Simply open the file and boom. There are com
  </p>
 
 ## Support
+
+
 
 If you need help you can join my server here: https://discord.gg/J8S5e8a
 
